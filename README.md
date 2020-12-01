@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/rohandongre6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohandongre6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohan-dongre-371a1136" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohan-dongre-371a1136" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dongrerohan421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dongrerohan421" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3607734" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dongrerohan421" height="30" width="40" /></a>
 <a href="https://instagram.com/nothing_but_g_thang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nothing_but_g_thang" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dongrerohan421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dongrerohan421" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dongrerohan421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dongrerohan421" height="30" width="40" /></a>
